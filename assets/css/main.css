@@ -30,7 +30,7 @@ footer, header, hgroup, menu, nav, section {
 	display: block;}
 
 .me{
-	width: 200px;
+	width: 150px;
 	clip-path: circle();
 	float: right;
 }
